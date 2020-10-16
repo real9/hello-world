@@ -10,8 +10,7 @@ char* StrCpy(char* src)
 	
 	return str;
 <<<<<<< Updated upstream
-//远程edit
-}
+
 =======
 <<<<<<< HEAD
 //本地编辑
