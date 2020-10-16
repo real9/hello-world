@@ -9,5 +9,12 @@ char* StrCpy(char* src)
 	str[len + 1] = '\0';
 	
 	return str;
+<<<<<<< Updated upstream
 //远程edit
 }
+=======
+<<<<<<< HEAD
+//本地编辑
+}
+
+>>>>>>> Stashed changes
